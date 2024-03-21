@@ -1,0 +1,18 @@
+Sandbox_FR = {
+    Sandbox_BecomeDesensitized = "Devenir Désensibilisé",
+    
+    Sandbox_MinimumZombieKills = "Nombre minimum de zombies tués (DOIT ÊTRE INFÉRIEUR AU MAXIMUM DE ZOMBIES TUÉS)",
+    Sandbox_MinimumZombieKills_tooltip = "Nombre minimum de zombies tués requis pour avoir une chance de devenir désensibilisé.",
+
+    Sandbox_MaximumZombieKills = "Nombre maximal de zombies tués (DOIT ÊTRE SUPÉRIEUR AU MINIMUM DE ZOMBIES TUÉS)",
+    Sandbox_MaximumZombieKills_tooltip = "Nombre maximum de zombies tués requis pour devenir désensibilisé.",
+
+    Sandbox_ConsiderTraits = "Considérer Avantages",
+    Sandbox_ConsiderTraits_tooltip = "Considére les Avantages qui peuvent augmenter les chances de devenir désensibilisé (plus d'infos sur la page du workshop)",
+
+    Sandbox_ConsiderOccupations = "Considérer Métiers",
+    Sandbox_ConsiderOccupations_tooltip = "Considére les métiers de Policier, Pompier, Garde Forestier, Garde de sécurité, Docteur et Infirmiére qui peuvent augmenter les chances de devenir désensibilisé",
+
+    Sandbox_Logging = "Activer la journalisation de la console",
+    Sandbox_Logging_tooltip = "Idéal pour les serveurs afin de déboguer les problèmes qui peuvent survenir ou simplement pour les tests.",
+}
